@@ -1,0 +1,22 @@
+.bg{
+  background-image: '../../assets/background.jpg';
+  border-radius: 3px
+}
+.creditCard {
+  text-align: center;
+}
+.puceStyle {
+  width: 40px
+}
+.cardNumberStyle{
+  background-color: #e1b4539e;
+  font-size: 12px;
+  //color: #f4c664
+}
+.float-right{
+  float: right
+}
+.cardHolderStyle{
+  float: left;
+  font-size: 12px
+}
